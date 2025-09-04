@@ -1,6 +1,6 @@
 ## - Current Information -
 
-- ### 👋 **Hi, I’m Matthew Elledge, or @mthyuu !**
+- ### 👋 **Hi, I'm @mthyuu :)**
   - I've been working in programming since ~2021
   - I've just graduated from **_Kennesaw State University_** in **_May 2025_**, and are looking for more programming/dev roles !
   - Most recently have been working in Minecraft/Java Plugin development via PaperMC
