@@ -2,7 +2,7 @@
 
 - ### 👋 **Hi, I'm @mthyuu :)**
   - I've been working in programming since ~2021
-  - I've just graduated in **_May 2025_** with a **_B.S. in Computer Science_**, and are looking for more programming/dev roles !
+  - Just graduated in **_May 2025_** with a **_B.S. in Computer Science_**, and are looking for more programming/dev roles !
   - Most recently have been working in Minecraft/Java Plugin development via PaperMC
       - My Sr. Project repo where my team and I developed a Bloons Tower Defense style gamemode __[here!](https://github.com/KsuBlocksTD/BlocksTD1.0)__ (~9500 lines total)
       - More recently joined in on a different, albiet very similar project called __[EventHorizon](https://github.com/StrwbryDev/EventHorizon)__ to volunteer and stay working in development
