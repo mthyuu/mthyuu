@@ -1,0 +1,6 @@
+cpu: 		intel i7-12700k
+cpu cooler: 	id-cooling frostflow x
+mobo: 		asus rog strix b760-i gaming wifi
+ram: 		corsair vengeance 32gb ddr5-6000
+graphics card:  xfx swift radeon rx 9070 xt
+psu: 		cooler master v850 sfx gold
