@@ -8,7 +8,7 @@
   - I love all things tech and computers— have been PC gaming since Summer 2018
       - Built my first custom PC in Jan '20 and have been upgrading it since
       - Also just upgraded and compacted it in May 2025 to an SFF bc carrying around my 50 liter case was annoying
-      - Current specs list __[here]()__
+      - Current specs list __[here](https://github.com/mthyuu/mthyuu/blob/8e13d2092136c3ee88aff46b92707bbc26273aff/specs.txt)__
   - (Was working, but since unplugged/moved) My finished, working VPN setup for secure, remote access cloud storage via **__Nextcloud__**, **__Tailscale__**, and **__Docker__** (via Portainer) on my rpi 5
       - Used docker, apache, nginx, and osticket to standup a ticketing system on a server at work recently in Oct '25
   - Working on a 12U server rack with patch panel for a chill home networking project 
