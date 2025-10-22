@@ -13,7 +13,7 @@
       - Used docker, apache, nginx, and osticket to standup a ticketing system on a server at work recently in Oct '25
   - Working on a 12U server rack with patch panel for a chill home networking project 
   - I like challenging myself with different projects and new stuff to learn to get better
-  - Really like typing and am slowly more and more into custom keyboards since I built mine [custom](https://github.com/mthyuu/aboutMe/blob/main/keyboard/keyboard%20desc.md) ~October 2023
+  - Really like typing and am slowly more and more into custom keyboards since I built mine [custom](https://github.com/mthyuu/mthyuu/blob/a866805b2ca0caeaf1af0885c92f003797c050c3/keyboard/keyboard%20desc.md) ~October 2023
       - 128WPM peak as of 4/14/25
       - __[monke](https://monkeytype.com/profile/mthyuu)__
     
